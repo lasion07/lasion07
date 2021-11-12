@@ -8,7 +8,6 @@ def kt(num) -> bool:
     cnt = 0
     for i in range(2,int(num/2)+1,1):
         if num % i == 0:
-            print(i)
             cnt += 1
     return (cnt==1)
 
