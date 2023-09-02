@@ -2,7 +2,7 @@
 <p><em> Fourth-year student at Hanoi University of Industry </em></p>
 
 [![Linkedin: Lythanhlam](https://img.shields.io/badge/lythanhlam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com%2Fin%2Flasion
-)](www.linkedin.com/in/lasion)
+)](https://www.linkedin.com/in/lasion)
 [![GitHub Lythanhlam](https://img.shields.io/github/followers/lasion07?label=follow&style=social)](https://github.com/lasion07)
 
 ### A little more about me...  
