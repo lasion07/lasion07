@@ -12,7 +12,7 @@ const lam = {
   pronouns: "he" | "him",
   code: [Python, C++],
   frameworks: [Pytorch, Tensorflow],
-  currentFocus: "I am doing some projects"
+  currentFocus: "I love doing project"
 }
 ```
 
