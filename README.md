@@ -20,4 +20,4 @@ const lam = {
 
 ---
 
-© Lasion 2023
+© Lasion 2024
